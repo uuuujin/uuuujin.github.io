@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]&#10;테마 변경">
+    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]&#10;테마 재 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/defaults.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/defaults.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
       <workItem from="1634722728506" duration="628000" />
       <workItem from="1635214807194" duration="1424000" />
       <workItem from="1635414041190" duration="7266000" />
-      <workItem from="1635484536562" duration="790000" />
+      <workItem from="1635484536562" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635415494953</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[uuuujin.git.io]&#10;테마 재 변경">
+      <created>1635486650427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635486650427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,14 +121,15 @@
     <MESSAGE value="TEST" />
     <MESSAGE value="TEST1" />
     <MESSAGE value="[uuuujin.git.io]&#10;테마 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;테마 변경" />
+    <MESSAGE value="[uuuujin.git.io]&#10;테마 재 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;테마 재 변경" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="315" y="34" key="CommitChangelistDialog2" timestamp="1635472152473">
-      <screen x="0" y="0" width="1080" height="1880" />
+    <state x="1657" y="15" key="CommitChangelistDialog2" timestamp="1635486810574">
+      <screen x="1080" y="0" width="1920" height="1040" />
     </state>
     <state x="315" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1635472152473" />
-    <state x="1657" y="19" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1634709851609" />
+    <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486810574" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1635472152287">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
@@ -133,15 +143,20 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="496" y="153" key="RollbackChangesDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1635414169972" />
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1635415498069">
-      <screen x="0" y="0" width="1080" height="1880" />
+    <state x="1632" y="249" key="Vcs.Push.Dialog.v2" timestamp="1635486685619">
+      <screen x="1080" y="0" width="1920" height="1040" />
     </state>
     <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1635415498069" />
-    <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1634709878405" />
-    <state x="88" y="204" width="917" height="1328" key="find.popup" timestamp="1635471695690">
-      <screen x="0" y="0" width="1080" height="1880" />
+    <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486685619" />
+    <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635486680055">
+      <screen x="1080" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486680055" />
+    <state x="1182" y="166" width="1631" height="735" key="find.popup" timestamp="1635486908249">
+      <screen x="1080" y="0" width="1920" height="1040" />
     </state>
     <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1635471695690" />
+    <state x="1182" y="166" width="1631" height="735" key="find.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486908249" />
     <state x="1441" y="241" width="1195" height="376" key="search.everywhere.popup" timestamp="1635484579695">
       <screen x="1080" y="0" width="1920" height="1040" />
     </state>
