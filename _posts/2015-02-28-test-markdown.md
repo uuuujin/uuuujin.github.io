@@ -1,25 +1,29 @@
 ---
+title: iframe postMessage() javascript
 layout: post
-title: Test markdown
 subtitle: Each post also has a subtitle
 categories: markdown
-tags: [test]
+tags:
+- test
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+iframe 에서 다른 도메인끼리 값을 넘길때, 
+iframe 에서 같은 도메인끼리 값을 넘길때,
 
-**Here is some bold text**
+## 같은 도메인
+```html
+<iframe id="sample_iframe" frameborder="0" height="1052px" marginheight="0" marginwidth="0" src="http://dev1.uuuujin.github.io" width="100%"></iframe>
+<script> 
+	let iframe = document.querySelector("#sample_iframe"); 
+	iframe.addEventListener('load', function() {   //load 될때
+		iframe.style.height = iframe.contentDocument.body.scrollHeight + 'px'; 
+		iframe.style.width = iframe.contentDocument.body.scrollWidth + 'px'; 
+	}); 
+</script>
+```
 
-## Here is a secondary heading
+## 다른 도메인
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about a yummy crepe?
