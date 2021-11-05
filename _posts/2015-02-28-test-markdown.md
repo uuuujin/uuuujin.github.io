@@ -23,58 +23,47 @@ iframe 에서 같은 도메인끼리 값을 넘길때,
 ```
 
 ## 다른 도메인
+1). iframe 내부의 소스
 
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+```html
+<script> 
+ // iframe 로드 되었을때, 값넘김
+    window.addEventListener('load', function() {
+      let message = { height: document.body.scrollHeight, width: document.body.scrollWidth };
+      window.top.postMessage(message, "*");
+    });
+		//resize 되었을때 값넘김
+    window.addEventListener('resize', function() {
+      let message = { height: document.body.scrollHeight, width: document.body.scrollWidth };
+      window.top.postMessage(message, "*");
+    });
+</script>
 ```
 
-And here is the same code yet again but with line numbers:
+2). iframe을 사용하는 부분의 소스
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+```html
+<script> 
+$(document).ready(function () {
 
-## Boxes
-You can add notification, warning and error boxes like this:
+        $(window).resize(function () {
+            iframeResize();
+        });
 
-### Notification
+        function iframeResize() {
+            let iframe = document.querySelector("#sampleFrame");
+            window.addEventListener('message', function(e) {
+                let message = e.data;
+                iframe.style.height = message.height + 'px';
+                /*iframe.style.width = message.width + 'px';*/
+            } , false);
 
-{: .box-note}
-**Note:** This is a notification box.
+        }
+        iframeResize();
+    });
+</script>
+```
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+## 끝
+그럼 20000;
