@@ -2,7 +2,8 @@
 title: iframe postMessage() javascript
 layout: post
 subtitle: iframe 값 전달하는 방식
-categories: misc
+categories:
+- script
 tags:
 - javascript
 - jquery
