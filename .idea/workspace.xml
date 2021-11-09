@@ -19,13 +19,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]&#10;iframe postMessage() subtitle수정">
+    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]&#10;iframe postMessage() subtitle 수정 ver.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-01-another-test-markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-01-01-another-test-markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-11-05-test-markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-11-05-test-markdown.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,15 +161,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;iframe postMessage() javascript 작성 완료" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="315" y="34" key="CommitChangelistDialog2" timestamp="1636364856040">
+    <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636441699010">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="315" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636364856040" />
+    <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441699010" />
+    <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1636441775347">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441775347" />
+    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1636439663217">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636439663217" />
     <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487196723" />
-    <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1636081391305">
+    <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1636439658352">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="92" y="92" width="896" height="1696" key="DiffContextDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636081391305" />
+    <state x="92" y="92" width="896" height="1696" key="DiffContextDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636439658352" />
     <state x="1244" y="0" key="DiffContextDialog/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487018411" />
     <state x="341" y="522" key="FileChooserDialogImpl" timestamp="1635472590223">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -184,15 +197,15 @@
       <screen x="1080" y="0" width="1920" height="1040" />
     </state>
     <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486680055" />
-    <state x="88" y="204" width="917" height="1328" key="find.popup" timestamp="1636361267496">
+    <state x="88" y="204" width="917" height="1328" key="find.popup" timestamp="1636442395844">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636361267496" />
+    <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636442395844" />
     <state x="1182" y="166" width="1631" height="735" key="find.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486982125" />
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1636361278205">
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1636442392033">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636361278205" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636442392033" />
     <state x="1441" y="241" width="1195" height="376" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487479829" />
   </component>
 </project>

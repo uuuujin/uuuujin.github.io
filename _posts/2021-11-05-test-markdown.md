@@ -1,10 +1,13 @@
 ---
 title: iframe postMessage() javascript
 layout: post
-subtitle: iframe 부모창 자식창 값 전달하는 방식
-categories: markdown
+subtitle: iframe 값 전달하는 방식
+categories: misc
 tags:
-- test
+- javascript
+- jquery
+- iframe
+- post Message
 ---
 
 iframe 에서 다른 도메인끼리 값을 넘길때, 
@@ -27,16 +30,26 @@ iframe 에서 같은 도메인끼리 값을 넘길때,
 
 ```html
 <script> 
+$(document).ready(function () {
  // iframe 로드 되었을때, 값넘김
-    window.addEventListener('load', function() {
-      let message = { height: document.body.scrollHeight, width: document.body.scrollWidth };
-      window.top.postMessage(message, "*");
+     window.addEventListener('load', function() {
+      let iframeMessage = { height: document.body.scrollHeight, 
+						      width: document.body.scrollWidth };
+      window.top.postMessage(iframeMessage, "*");
     });
-		//resize 되었을때 값넘김
+	//resize 되었을때 값넘김
     window.addEventListener('resize', function() {
-      let message = { height: document.body.scrollHeight, width: document.body.scrollWidth };
-      window.top.postMessage(message, "*");
+      let iframeMessage = { height: document.body.scrollHeight, 
+      						width: document.body.scrollWidth };
+      window.top.postMessage(iframeMessage, "*");
     });
+    //key 입력 되었을때 값 넘김
+    $(window).keyup(function (e){
+      let iframeMessage = { height: document.body.scrollHeight, 
+      						width: document.body.scrollWidth };
+      window.top.postMessage(iframeMessage, "*");
+    });
+});
 </script>
 ```
 
@@ -52,7 +65,7 @@ $(document).ready(function () {
 
         function iframeResize() {
             let iframe = document.querySelector("#sampleFrame");
-            window.addEventListener('message', function(e) {
+            window.addEventListener('iframeMessage', function(e) {
                 let message = e.data;
                 iframe.style.height = message.height + 'px';
                 /*iframe.style.width = message.width + 'px';*/
