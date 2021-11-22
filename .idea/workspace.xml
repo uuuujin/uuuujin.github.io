@@ -30,6 +30,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +83,8 @@
       <workItem from="1636079673133" duration="2311000" />
       <workItem from="1636334505119" duration="1462000" />
       <workItem from="1636363506859" duration="969000" />
-      <workItem from="1637113412159" duration="3774000" />
+      <workItem from="1637113412159" duration="4330000" />
+      <workItem from="1637544581839" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -153,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636623365289</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[uuuujin.git.io]&#10;azure 알아보기">
+      <created>1637288732374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637288732374</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[uuuujin.git.io]&#10;azure 알아보기 1">
+      <created>1637288746941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637288746941</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +199,9 @@
     <MESSAGE value="[uuuujin.git.io]&#10;iframe postMessage() subtitle 수정 ver.3" />
     <MESSAGE value="[uuuujin.git.io]&#10;전반적인 수정 사항 반영" />
     <MESSAGE value="[uuuujin.git.io]&#10;nginx post 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;nginx post 추가" />
+    <MESSAGE value="[uuuujin.git.io]&#10;azure 알아보기" />
+    <MESSAGE value="[uuuujin.git.io]&#10;azure 알아보기 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;azure 알아보기 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636441699010">
@@ -193,10 +212,10 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441775347" />
-    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1636623364655">
+    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1637288746391">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636623364655" />
+    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1637288746391" />
     <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487196723" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1636445129941">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -216,24 +235,24 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="41" y="584" key="SettingsEditor/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636449587478" />
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1636623368582">
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1637288769811">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636623368582" />
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1637288769811" />
     <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487201271" />
     <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635486680055">
       <screen x="1080" y="0" width="1920" height="1040" />
     </state>
     <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486680055" />
-    <state x="88" y="204" width="917" height="1328" key="find.popup" timestamp="1636450793086">
+    <state x="88" y="204" width="917" height="1328" key="find.popup" timestamp="1637561349825">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636450793086" />
+    <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1637561349825" />
     <state x="1182" y="166" width="1631" height="735" key="find.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486982125" />
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1637287011272">
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1637561365953">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1637287011272" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1637561365953" />
     <state x="1441" y="241" width="1195" height="376" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487479829" />
   </component>
 </project>

@@ -181,7 +181,8 @@ yat:
 # highlighter: none
 markdown: kramdown
 kmarkdown:
-  input: GFM
+input: GFM
+asset_url: /assets
 
 plugins:
   - jekyll-feed
