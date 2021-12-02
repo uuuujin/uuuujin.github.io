@@ -93,10 +93,10 @@ json_encode는 PHP 배열을 JSON 으로 변환하는 함수로
 ```php
 
 $array = array(
-				"name"=> "홍길동",
-				"age"=> "22",
-				"address"=>"전라도",
-				);
+    "name"=> "홍길동",
+    "age"=> "22",
+    "address"=>"전라도",
+);
 
 echo json_encode($array);
 
@@ -127,6 +127,8 @@ var_dump(json_decode($json_code, true));
 
 ```
 
+## json_decode();
+
 그냥 json_decode과 
 
 json_decode(변수 , true);가 다른데,
@@ -134,8 +136,40 @@ json_decode(변수 , true);가 다른데,
 그냥 json_decode()의 경우
 
 // 결과
-object(stdClass)#1 (3) {
-    ["a"] => string()
-    ["b"] => string(2)
-    ["c"] => string(3)
+
+그냥 json_decode를 진행했을때,
+
+```php
+
+object(stdClass)#320 (3) {
+  ["name"]=>  string(9) "홍길동"
+  ["age"]=>   string(2) "22"
+  ["address"]=>  string(9) "전라도"
 }
+
+```
+
+json_decode(__, true);로 진행했을때, 
+
+```php 
+
+array(3) {
+  ["name"]=>  string(9) "홍길동"
+  ["age"]=>  string(2) "22"
+  ["address"]=>  string(9) "전라도"
+}
+
+```
+
+일단 decode시 기본값을 안주면 자동적으로 false로 지정되고, 
+
+값은 object로 변환된다.
+
+object 형식에서는 echo를 $array['name'] 이런식으로 배열 형식으로
+
+찍어봐도 나오지 않게 된다.
+
+object는 $array->name 이런식으로 호출해야 한다고 한다.
+
+배열로 변환하고 싶을때는 json_decode($array, true)로 true값을 주면 된다.
+
