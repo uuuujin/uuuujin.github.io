@@ -1,5 +1,5 @@
 ---
-title: "[기초] python 배우기 강좌들(video)"
+title: python 배우기 강좌들(video)
 layout: post
 subtitle: null
 categories: python
