@@ -1,0 +1,10 @@
+I"A<p>nginx는 웹서버로 가벼운게 특징.</p>
+
+<h2 id="nginx-명령어">nginx 명령어</h2>
+
+<p>상태 확인 : systemctl status nginx</p>
+
+<p>웹서버 재시작 : sudo systemctl restart nginx</p>
+
+<p>엔진 엑스는 비동기 기반 구조로 웹서버, 메일프록시, 리버스 프록시 기능을 가짐.</p>
+:ET

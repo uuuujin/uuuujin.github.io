@@ -28,13 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가 ver.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-07-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-07-welcome-to-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/yat.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/yat.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +81,7 @@
       <workItem from="1636363506859" duration="969000" />
       <workItem from="1637113412159" duration="4330000" />
       <workItem from="1637544581839" duration="9152000" />
-      <workItem from="1638344572486" duration="14989000" />
+      <workItem from="1638344572486" duration="15798000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -222,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638427358769</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[uuuujin.git.io]&#10;font 및 banner img 수정">
+      <created>1638431839846</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1638431839846</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +261,8 @@
     <MESSAGE value="[uuuujin.git.io]&#10;post들 제목 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가" />
     <MESSAGE value="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가 ver.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가 ver.2" />
+    <MESSAGE value="[uuuujin.git.io]&#10;font 및 banner img 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;font 및 banner img 수정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638426950234">
@@ -271,10 +273,10 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441775347" />
-    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1638431178576">
+    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1638431839154">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638431178576" />
+    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638431839154" />
     <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487196723" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1638431176527">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -294,10 +296,10 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="41" y="584" key="SettingsEditor/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636449587478" />
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1638427360775">
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1638431840984">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638427360775" />
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638431840984" />
     <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487201271" />
     <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635486680055">
       <screen x="1080" y="0" width="1920" height="1040" />
