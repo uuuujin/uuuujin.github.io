@@ -2,10 +2,18 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+/*여기서부터는 내가 커스터마이징 한 소스*/
 
 @font-face {
     font-family: 'Cafe24Danjunghae';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Danjunghae.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KOTRA_BOLD-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.1/KOTRA_BOLD-Bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -16,6 +24,19 @@ html{
     font-weight: normal;
     font-style: normal;
 }
+
+::selection{
+  background: #34A6EA;
+  color: #FEFEEC;
+}
+
+.site-brand-inner {
+	font-size: 20px !important;
+  font-family: KOTRA_BOLD-Bold;
+}
+
+/*여기까지는 내가 커스터마이징 한 소스*/
+
 // Default theme colors
 $theme-colors: (
   "coolblack": #090a0b,
