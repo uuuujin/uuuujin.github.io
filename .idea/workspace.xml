@@ -28,10 +28,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]&#10;font 및 banner img 수정 ver.2">
+    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0b/4842ab6db36fe6ed779a2d5d1e5b2f96e483376f28fbc96415ea78e4d9e662" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/17/3ec8013420155597559a9a70d443c46e3dabca9af102cc0cf8e0beea6407ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/21/21d26fa383789c08e66c4a86bb243e954eef1975643f010c7f263323954a28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/29/4f56a9a6de750b532fdc7054c732cfc329b392f081326f4e47421c4263f313" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2c/f84564bfbe3ce3e30e02c57cedb229075b50d20a507411540df88a36eeb8fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3d/9bbf5a7792b7b13adfbd3778a2f6ef3720e23632c54e9de2eca58589069d33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4b/2efed502f462f499f009ea9c166fa0dc04d2902fe371493414e65bb8d84fd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/52706cd972e07261342b8939d61bedbdad9f8f17aeafd8c7350d0df3cc8608" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6a/4722c23210d926310e101fdbc90bf122f8c69cb8c8433bf9c3d24f79952951" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/95/7608c1636aaf9d7c5eccf1e678eef45fdb94467153ee1d8ce04127a4938f97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/95/a7e36feb6320c8b01753989eac5ec13cd69a3622789216a083a6d717a0a53a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bb/28d44c8fde9140b267d2e2bdb56773ce3624eae99e21717378948bce7cbc62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cd/f950857a9ebcf13fc160db33ebb1b5d14a4180721c543c7cb8d8e879c52d8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d0/8f1e47bcf5bd78b33de708934bb74d6b64069c4a93b7b2a504e470cbad0dc0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa40a5b7596930577a707257f5a3fc7f654563b85d423f4fada5728e39a65d" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +68,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mobon-v2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,7 +99,10 @@
       <workItem from="1636363506859" duration="969000" />
       <workItem from="1637113412159" duration="4330000" />
       <workItem from="1637544581839" duration="9152000" />
-      <workItem from="1638344572486" duration="27151000" />
+      <workItem from="1638344572486" duration="29002000" />
+      <workItem from="1638753084819" duration="2882000" />
+      <workItem from="1638759509859" duration="3758000" />
+      <workItem from="1639544174325" duration="10193000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -234,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638432630971</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[uuuujin.git.io]&#10;css 수정">
+      <created>1638502900564</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1638502900564</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +310,8 @@
     <MESSAGE value="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가 ver.2" />
     <MESSAGE value="[uuuujin.git.io]&#10;font 및 banner img 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;font 및 banner img 수정 ver.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;font 및 banner img 수정 ver.2" />
+    <MESSAGE value="[uuuujin.git.io]&#10;css 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;css 수정" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638426950234">
@@ -297,10 +322,10 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441775347" />
-    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1638499117625">
+    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1638502899925">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638499117625" />
+    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638502899925" />
     <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487196723" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1638496655079">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -320,11 +345,15 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="41" y="584" key="SettingsEditor/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636449587478" />
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1638432634148">
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1638503186145">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638432634148" />
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638503186145" />
     <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487201271" />
+    <state x="92" y="92" width="896" height="1696" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1639978507606">
+      <screen x="0" y="0" width="1080" height="1880" />
+    </state>
+    <state x="92" y="92" width="896" height="1696" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1639978507606" />
     <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635486680055">
       <screen x="1080" y="0" width="1920" height="1040" />
     </state>
@@ -334,10 +363,10 @@
     </state>
     <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638499211751" />
     <state x="1182" y="166" width="1631" height="735" key="find.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486982125" />
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1638496661349">
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1639967241861">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638496661349" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1639967241861" />
     <state x="1441" y="241" width="1195" height="376" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487479829" />
   </component>
 </project>
