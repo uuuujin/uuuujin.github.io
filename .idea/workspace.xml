@@ -46,6 +46,7 @@
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cd/f950857a9ebcf13fc160db33ebb1b5d14a4180721c543c7cb8d8e879c52d8a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d0/8f1e47bcf5bd78b33de708934bb74d6b64069c4a93b7b2a504e470cbad0dc0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa40a5b7596930577a707257f5a3fc7f654563b85d423f4fada5728e39a65d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +103,8 @@
       <workItem from="1638344572486" duration="29002000" />
       <workItem from="1638753084819" duration="2882000" />
       <workItem from="1638759509859" duration="3758000" />
-      <workItem from="1639544174325" duration="10193000" />
+      <workItem from="1639544174325" duration="14329000" />
+      <workItem from="1640054612855" duration="2419000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -258,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638502900564</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="[uuuujin.git.io]&#10;gradle 추가">
+      <created>1639994109878</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1639994109878</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[uuuujin.git.io]&#10;php 오류 Undefined index 가 날때 post 추가">
+      <created>1640055842480</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1640055842480</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +327,9 @@
     <MESSAGE value="[uuuujin.git.io]&#10;font 및 banner img 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;font 및 banner img 수정 ver.2" />
     <MESSAGE value="[uuuujin.git.io]&#10;css 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;css 수정" />
+    <MESSAGE value="[uuuujin.git.io]&#10;gradle 추가" />
+    <MESSAGE value="[uuuujin.git.io]&#10;php 오류 Undefined index 가 날때 post 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;php 오류 Undefined index 가 날때 post 추가" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638426950234">
@@ -322,10 +340,10 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441775347" />
-    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1638502899925">
+    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1640055841602">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638502899925" />
+    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1640055841602" />
     <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487196723" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1638496655079">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -345,10 +363,10 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="41" y="584" key="SettingsEditor/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636449587478" />
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1638503186145">
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1640055844966">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638503186145" />
+    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1640055844966" />
     <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487201271" />
     <state x="92" y="92" width="896" height="1696" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1639978507606">
       <screen x="0" y="0" width="1080" height="1880" />
