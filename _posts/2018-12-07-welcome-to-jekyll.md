@@ -1,5 +1,5 @@
 ---
-title: jekyll 작성 예시
+title: sample <= not my post
 layout: post
 subheading: A awesome static site generator.
 author: Jeffrey
