@@ -28,7 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="">
+    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0b/4842ab6db36fe6ed779a2d5d1e5b2f96e483376f28fbc96415ea78e4d9e662" beforeDir="false" />
@@ -42,11 +42,14 @@
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6a/4722c23210d926310e101fdbc90bf122f8c69cb8c8433bf9c3d24f79952951" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/95/7608c1636aaf9d7c5eccf1e678eef45fdb94467153ee1d8ce04127a4938f97" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/95/a7e36feb6320c8b01753989eac5ec13cd69a3622789216a083a6d717a0a53a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b9/c7137ba919a3c87a2240cff68e3280b9e643c8f80916efd39ebd806b3b2a75" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bb/28d44c8fde9140b267d2e2bdb56773ce3624eae99e21717378948bce7cbc62" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cd/f950857a9ebcf13fc160db33ebb1b5d14a4180721c543c7cb8d8e879c52d8a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d0/8f1e47bcf5bd78b33de708934bb74d6b64069c4a93b7b2a504e470cbad0dc0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa40a5b7596930577a707257f5a3fc7f654563b85d423f4fada5728e39a65d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-03-29-line-height.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +83,11 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.yamlOptions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\uuuujin.github.io" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -104,7 +112,27 @@
       <workItem from="1638753084819" duration="2882000" />
       <workItem from="1638759509859" duration="3758000" />
       <workItem from="1639544174325" duration="14329000" />
-      <workItem from="1640054612855" duration="2419000" />
+      <workItem from="1640054612855" duration="3041000" />
+      <workItem from="1640158733006" duration="585000" />
+      <workItem from="1640159348276" duration="286000" />
+      <workItem from="1640159650642" duration="737000" />
+      <workItem from="1640566623933" duration="1809000" />
+      <workItem from="1644214971010" duration="1330000" />
+      <workItem from="1644217738048" duration="595000" />
+      <workItem from="1644309003522" duration="2724000" />
+      <workItem from="1644544751509" duration="1641000" />
+      <workItem from="1644802278073" duration="604000" />
+      <workItem from="1644804678490" duration="595000" />
+      <workItem from="1644817518761" duration="642000" />
+      <workItem from="1644819380761" duration="5000" />
+      <workItem from="1644975347266" duration="611000" />
+      <workItem from="1648516631420" duration="4992000" />
+      <workItem from="1648609273906" duration="629000" />
+      <workItem from="1649146106617" duration="1178000" />
+      <workItem from="1649638515265" duration="4331000" />
+      <workItem from="1649897681654" duration="748000" />
+      <workItem from="1650243312690" duration="2636000" />
+      <workItem from="1650265628586" duration="2547000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -274,7 +302,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640055842480</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="[uuuujin.git.io]&#10;categories 수정">
+      <created>1640057078701</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1640057078701</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[uuuujin.git.io]&#10;e.preventDefault()  post 추가 &#10;및&#10;portfolio test page 추가">
+      <created>1648533576985</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1648533576985</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[uuuujin.git.io]&#10;line height 임시 commit;">
+      <created>1649146693526</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1649146693526</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,8 +354,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TEST" />
-    <MESSAGE value="TEST1" />
     <MESSAGE value="[uuuujin.git.io]&#10;테마 변경" />
     <MESSAGE value="[uuuujin.git.io]&#10;테마 재 변경" />
     <MESSAGE value="[uuuujin.git.io]&#10;title 수정" />
@@ -329,62 +376,42 @@
     <MESSAGE value="[uuuujin.git.io]&#10;css 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;gradle 추가" />
     <MESSAGE value="[uuuujin.git.io]&#10;php 오류 Undefined index 가 날때 post 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;php 오류 Undefined index 가 날때 post 추가" />
+    <MESSAGE value="[uuuujin.git.io]&#10;categories 수정" />
+    <MESSAGE value="[uuuujin.git.io]&#10;e.preventDefault()  post 추가 &#10;및&#10;portfolio test page 추가" />
+    <MESSAGE value="[uuuujin.git.io]&#10;line height 임시 commit;" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;line height 임시 commit;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638426950234">
+    <state x="167" y="27" key="CommitChangelistDialog2" timestamp="1650965631323">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="0" y="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638426950234" />
-    <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1636441775347">
+    <state x="167" y="27" key="CommitChangelistDialog2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1650965631323" />
+    <state x="297" y="15" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649146692295" />
+    <state x="416" y="497" key="FileChooserDialogImpl" timestamp="1649638776342">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="190" y="795" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636441775347" />
-    <state x="143" y="34" key="CommitChangelistDialog2" timestamp="1640055841602">
+    <state x="416" y="497" key="FileChooserDialogImpl/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1649638776342" />
+    <state x="416" y="497" key="FileChooserDialogImpl/0.0.1080.1880/1080.105.1920.1040@0.0.1080.1880" timestamp="1644802286345" />
+    <state x="261" y="681" width="540" height="540" key="StructurePopup" timestamp="1648517386765">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="143" y="34" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1640055841602" />
-    <state x="1657" y="15" key="CommitChangelistDialog2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487196723" />
-    <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1638496655079">
+    <state x="261" y="681" width="540" height="540" key="StructurePopup/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1648517386765" />
+    <state x="133" y="253" key="Vcs.Push.Dialog.v2" timestamp="1649146696140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="75" y="458" key="Vcs.Push.Dialog.v2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1648533655258" />
+    <state x="133" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649146696140" />
+    <state x="353" y="850" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650965633199">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="92" y="92" width="896" height="1696" key="DiffContextDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638496655079" />
-    <state x="1244" y="0" key="DiffContextDialog/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487018411" />
-    <state x="341" y="522" key="FileChooserDialogImpl" timestamp="1638502347421">
+    <state x="353" y="850" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1650965633199" />
+    <state x="49" y="307" width="916" height="880" key="find.popup" timestamp="1650965738373">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="341" y="522" key="FileChooserDialogImpl/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638502347421" />
-    <state x="1820" y="275" key="FileChooserDialogImpl/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1634722733777" />
-    <state x="496" y="153" key="RollbackChangesDialog" timestamp="1636081298707">
+    <state x="49" y="307" width="916" height="880" key="find.popup/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1650965738373" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1648525500201">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
-    <state x="496" y="153" key="RollbackChangesDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636081298707" />
-    <state x="41" y="584" key="SettingsEditor" timestamp="1636449587478">
-      <screen x="0" y="0" width="1080" height="1880" />
-    </state>
-    <state x="41" y="584" key="SettingsEditor/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1636449587478" />
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2" timestamp="1640055844966">
-      <screen x="0" y="0" width="1080" height="1880" />
-    </state>
-    <state x="264" y="450" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1640055844966" />
-    <state x="1632" y="249" key="Vcs.Push.Dialog.v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487201271" />
-    <state x="92" y="92" width="896" height="1696" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1639978507606">
-      <screen x="0" y="0" width="1080" height="1880" />
-    </state>
-    <state x="92" y="92" width="896" height="1696" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1639978507606" />
-    <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635486680055">
-      <screen x="1080" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1853" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486680055" />
-    <state x="88" y="204" width="917" height="1328" key="find.popup" timestamp="1638499211751">
-      <screen x="0" y="0" width="1080" height="1880" />
-    </state>
-    <state x="88" y="204" width="917" height="1328" key="find.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1638499211751" />
-    <state x="1182" y="166" width="1631" height="735" key="find.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635486982125" />
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup" timestamp="1639967241861">
-      <screen x="0" y="0" width="1080" height="1880" />
-    </state>
-    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1639967241861" />
-    <state x="1441" y="241" width="1195" height="376" key="search.everywhere.popup/1080.0.1920.1040/0.0.1080.1880@1080.0.1920.1040" timestamp="1635487479829" />
+    <state x="203" y="435" width="672" height="678" key="search.everywhere.popup/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1648525500201" />
   </component>
 </project>
