@@ -29,7 +29,7 @@ Auth::check()의 조건이 맞지 않을 경우에는
 이때 
 Laravel middleware returning 
 (Trying to get property 'headers' of non-object) error)
-요런 오류가 나는 경우가 더러 발생한ㄷr.
+이러한 오류가 나는 경우가 더러 발생한다.
 
 
 ## abort(403)   

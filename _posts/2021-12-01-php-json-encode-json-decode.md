@@ -12,10 +12,12 @@ tags:
 
 ## json_encode();
 
-php에서 json 형태로 인코딩에 필요한 json_encode($변슈명);
+php에서 json 형태로 인코딩에 필요한 json_encode($변수명);
 
 옵션 없이 기본값으로 encoding 시
-json_encode($변슈명);
+
+json_encode($변수명);
+
 string(문자열) 형태로 결과 값이 출력된다.
 
 php 에서 배열을 사용할때

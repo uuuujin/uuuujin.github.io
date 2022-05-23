@@ -77,7 +77,3 @@ $(document).ready(function () {
     });
 </script>
 ```
-
-
-## 끝
-그럼 20000;

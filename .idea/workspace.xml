@@ -42,6 +42,11 @@
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cd/f950857a9ebcf13fc160db33ebb1b5d14a4180721c543c7cb8d8e879c52d8a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d0/8f1e47bcf5bd78b33de708934bb74d6b64069c4a93b7b2a504e470cbad0dc0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa40a5b7596930577a707257f5a3fc7f654563b85d423f4fada5728e39a65d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-01-php-json-encode-json-decode.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-01-php-json-encode-json-decode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-02-laravel-trying-to-get-property-headers-of-non-object.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-02-laravel-trying-to-get-property-headers-of-non-object.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-21-undefined-index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-12-21-undefined-index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2022-05-19-Out-of-Memory.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-05-19-Out-of-Memory.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +138,9 @@
       <workItem from="1652170269584" duration="625000" />
       <workItem from="1652175281994" duration="594000" />
       <workItem from="1652317811516" duration="786000" />
-      <workItem from="1652924941614" duration="5018000" />
+      <workItem from="1652924941614" duration="6076000" />
+      <workItem from="1652945505880" duration="595000" />
+      <workItem from="1653267160927" duration="789000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -338,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651029661505</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="[uuuujin.git.io]&#10;앗, 이런! 이 웹페이지를 표시하는 도중 문제가 발생했습니다.">
+      <created>1652931536184</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1652931536184</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +383,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[uuuujin.git.io]&#10;title 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;임시 commit" />
     <MESSAGE value="[uuuujin.git.io]&#10;iframe postMessage() javascript 작성 완료" />
     <MESSAGE value="[uuuujin.git.io]&#10;iframe postMessage() subtitle 수정 ver.3" />
@@ -394,13 +407,15 @@
     <MESSAGE value="[uuuujin.git.io]&#10;line height 임시 commit;" />
     <MESSAGE value="[uuuujin.git.io]&#10;php 동적변수 post update" />
     <MESSAGE value="[uuuujin.git.io]&#10;기본 폰트 및 code 폰트도 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;기본 폰트 및 code 폰트도 변경" />
+    <MESSAGE value="[uuuujin.git.io]&#10;앗, 이런! 이 웹페이지를 표시하는 도중 문제가 발생했습니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;앗, 이런! 이 웹페이지를 표시하는 도중 문제가 발생했습니다." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="27" key="CommitChangelistDialog2" timestamp="1651029660772">
+    <state x="167" y="27" key="CommitChangelistDialog2" timestamp="1652931535215">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="167" y="27" key="CommitChangelistDialog2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1651029660772" />
+    <state x="167" y="27" key="CommitChangelistDialog2/0.0.1080.1880/1080.170.1920.1040@0.0.1080.1880" timestamp="1652931535215" />
     <state x="297" y="15" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649146692295" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1651028779150">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -420,10 +435,11 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="261" y="681" width="540" height="540" key="StructurePopup/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1648517386765" />
-    <state x="75" y="458" key="Vcs.Push.Dialog.v2" timestamp="1651029664807">
+    <state x="75" y="458" key="Vcs.Push.Dialog.v2" timestamp="1652931541948">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="75" y="458" key="Vcs.Push.Dialog.v2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1651029664807" />
+    <state x="75" y="458" key="Vcs.Push.Dialog.v2/0.0.1080.1880/1080.170.1920.1040@0.0.1080.1880" timestamp="1652931541948" />
     <state x="133" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649146696140" />
     <state x="353" y="850" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650965633199">
       <screen x="0" y="0" width="1080" height="1880" />

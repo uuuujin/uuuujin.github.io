@@ -82,6 +82,4 @@ $excelList = serviceLibrary::simpleCurl($excelApiUrl);
 
 ```
 
-이렇게 메모리 무제한 설정을 하니 에러가 안난다. ^^
-
-굳굳
+이렇게 메모리 무제한 설정으로 해결 완료.
