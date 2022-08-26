@@ -62,9 +62,6 @@
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/dd/ec94668756cfdaf507f95e1c483f4b5d80701892bad5fb7fbb4607425d2544" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ea/eda774242f32a58745f3e05e5bc04be9341e95d754160d29dc94cf52b7b061" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/fa40a5b7596930577a707257f5a3fc7f654563b85d423f4fada5728e39a65d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,8 @@
       <workItem from="1653267160927" duration="2150000" />
       <workItem from="1653360452192" duration="632000" />
       <workItem from="1654131225465" duration="595000" />
-      <workItem from="1654649700593" duration="4983000" />
+      <workItem from="1654649700593" duration="6587000" />
+      <workItem from="1661481661145" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -380,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653282899550</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="[uuuujin.git.io]&#10;portfolio.html 틀만 잡음">
+      <created>1654676965229</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1654676965229</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +416,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[uuuujin.git.io]&#10;iframe postMessage() javascript 작성 완료" />
     <MESSAGE value="[uuuujin.git.io]&#10;iframe postMessage() subtitle 수정 ver.3" />
     <MESSAGE value="[uuuujin.git.io]&#10;전반적인 수정 사항 반영" />
     <MESSAGE value="[uuuujin.git.io]&#10;nginx post 추가" />
@@ -436,14 +440,15 @@
     <MESSAGE value="[uuuujin.git.io]&#10;기본 폰트 및 code 폰트도 변경" />
     <MESSAGE value="[uuuujin.git.io]&#10;앗, 이런! 이 웹페이지를 표시하는 도중 문제가 발생했습니다." />
     <MESSAGE value="[uuuujin.git.io]&#10;기존 작성 post중 보완이 필요한 파이썬, 엔진엑스, 애저 포스트 삭제 &#10;및&#10;기존 작성 post 내용 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;기존 작성 post중 보완이 필요한 파이썬, 엔진엑스, 애저 포스트 삭제 &#10;및&#10;기존 작성 post 내용 수정" />
+    <MESSAGE value="[uuuujin.git.io]&#10;portfolio.html 틀만 잡음" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io]&#10;portfolio.html 틀만 잡음" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="167" y="27" key="CommitChangelistDialog2" timestamp="1653282898559">
+    <state x="167" y="27" key="CommitChangelistDialog2" timestamp="1654676964502">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="167" y="27" key="CommitChangelistDialog2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1651029660772" />
-    <state x="167" y="27" key="CommitChangelistDialog2/0.0.1080.1880/1080.170.1920.1040@0.0.1080.1880" timestamp="1653282898559" />
+    <state x="167" y="27" key="CommitChangelistDialog2/0.0.1080.1880/1080.170.1920.1040@0.0.1080.1880" timestamp="1654676964502" />
     <state x="297" y="15" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649146692295" />
     <state x="92" y="92" width="896" height="1696" key="DiffContextDialog" timestamp="1654655243977">
       <screen x="0" y="0" width="1080" height="1880" />
@@ -463,11 +468,11 @@
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="261" y="681" width="540" height="540" key="StructurePopup/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1648517386765" />
-    <state x="75" y="458" key="Vcs.Push.Dialog.v2" timestamp="1653282902259">
+    <state x="75" y="458" key="Vcs.Push.Dialog.v2" timestamp="1654676967875">
       <screen x="0" y="0" width="1080" height="1880" />
     </state>
     <state x="75" y="458" key="Vcs.Push.Dialog.v2/0.0.1080.1880/1080.0.1920.1040@0.0.1080.1880" timestamp="1651029664807" />
-    <state x="75" y="458" key="Vcs.Push.Dialog.v2/0.0.1080.1880/1080.170.1920.1040@0.0.1080.1880" timestamp="1653282902259" />
+    <state x="75" y="458" key="Vcs.Push.Dialog.v2/0.0.1080.1880/1080.170.1920.1040@0.0.1080.1880" timestamp="1654676967875" />
     <state x="133" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649146696140" />
     <state x="353" y="850" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1650965633199">
       <screen x="0" y="0" width="1080" height="1880" />
