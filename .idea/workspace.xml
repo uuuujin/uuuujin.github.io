@@ -57,20 +57,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/uuuujin.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/uuuujin.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\uuuujin.github.io" />
@@ -137,6 +137,7 @@
       <workItem from="1654649700593" duration="6587000" />
       <workItem from="1661481661145" duration="3969000" />
       <workItem from="1662343161385" duration="2124000" />
+      <workItem from="1662345872929" duration="566000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -404,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662344405702</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="[uuuujin.git.io] &#10;react 로 project 다시 올림">
+      <created>1662346006873</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1662346006873</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[uuuujin.git.io]&#10;json_encode, json_decode 임시 commit;" />
     <MESSAGE value="[uuuujin.git.io]&#10;json_encode, json_decode 재작성" />
     <MESSAGE value="[uuuujin.git.io]&#10;iframe 부분 제목 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;post들 제목 수정" />
@@ -459,6 +466,7 @@
     <MESSAGE value="[uuuujin.git.io] &#10;구글 웹마스터 관련 sitemap 수정" />
     <MESSAGE value="[uuuujin.git.io] &#10;jekyll 안되는 부분 수정" />
     <MESSAGE value="[uuuujin.git.io] &#10;jekyll 삭제 , react 로 project 올림" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io] &#10;jekyll 삭제 , react 로 project 올림" />
+    <MESSAGE value="[uuuujin.git.io] &#10;react 로 project 다시 올림" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io] &#10;react 로 project 다시 올림" />
   </component>
 </project>
