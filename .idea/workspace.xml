@@ -28,249 +28,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io] &#10;jekyll 안되는 부분 수정">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/00/4e98aba41d86fc7fcf85f68d4417a1d199d21a9ab6f3aa42380acc19d15ee7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/07/f49868cc00205ed20a2a0956e586d0c8b110fdc06c598044e9c2192d6fa7e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/08/e6878e5c972e4cc5026fb5e77ddf88d3b457df3e9825414502cc29cb48ef18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0a/ab0284979eb41aebefe8de11d56a93a9f9b7f36f42905011765ee32acef3e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0d/40f3c0b6a2a915ec9c0ffe276b46f7e98a049089a344cb250d92e3cc67a231" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0e/1a3f9422355b9afe6d53b976c5dc9c638e6a66d70cf2320d02c14761197e92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/10/07baa4f43a13bfd592cb9415afc4283b353769829f05b9f1fe23aaa0a79a4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/10/df11dc6578a6e4439c32ba1da388fd741d7c62a30f5f318853e7e72d1adc6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/11/6dc725eb05b3435ee7c0303bb1e5a4a654f164df00564cc04550494e5eecd7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/11/7e5166a816b43c48a942fc26aa6753171f8dcee8fced9fbd04e07c3779cdc2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/13/31275bc537b4c2bf1e46f7275677967515342e30b572e6852fa6f51b831fe8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/18/c0ecd39957ed66ac401d2a05973e59bdf1fa4de4d724d3c47fd9a96e22d712" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/19/a44aa3921f7611e3effb2632283b796058850298b8d1c1c230aaf17b4637a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1c/fab545eca84b2fcbb1ebe775addd8c937ce3fc1bbea385b315bdf3db8b9d2a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/21/5f97f4cecd99fe7c07c996cfc68276d0e43bcfe115bd2f5a08fe24b0e75fb8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/23/9f55d6193ade085ecffd6e9227da596230105cf5d2e3786d234d4292684dd0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/24/a7c83434f83b58cf20e7a92aa9fe792e5c8ca6d44fc1d0bb11b08d0d308dd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/26/68d8f2d5e6151a057640fd4429d7314ae6b679faeeb52f9a49f07182759f77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/26/c3cc567fc91b947928bb1a6a5775c5dc3c727e717dc263ea62dfd47f453b72" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/27/4cbbdd316048be65ff8f864a040464ef1f6f9d3e6a0c0f78d80d2bfe7c0c27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/29/52887bc45642d0298722df28ed2d9b7a306c5a43682247a6a3b481e5933782" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2a/a158fd7a27728dc98101cdbd7a95417c289d23feac4bd5415f9811fa23c248" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2e/d897bf3ff715e64a443a111ecdac2fe84bb2e88125161560bf53a484acf071" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2f/4ae123c63bc23fd3206a4e0ebb950a7d1056f7d3a0d56a55487eb54b62de1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/32/4ce2bd00fa169f704a9d7d119f8a287952eaba09377b64042292024900fe3f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/33/21e9a96c3a2c871d4fdf0fe59ad833cbae36b9d84736f2a0929040c59489cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/34/779ef6c097fc2ea7540f843fdf2bb37b7329aca3d489c0710fece7572fb2fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/39/d02b42938b2b75d027ebeb25c9d1fd0b71b6e0453e217a2e85cedc7e4637b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/39/de488752d85e5773595673f844c56cfff444a64477a6c4663a78a6971d430d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3a/78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3a/cafc469178119febc38841f9a0159004df3070dfb9d9fd95384c8e7134729c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3d/3c058785c4991a5e2ef026e6ab53c0b50c4b49fe3b2da1622fa706068da920" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/42/42efee9cfac371c8316bb3de93c7482a2750b2514e78446ef05ae36750e815" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/43/302c258003f46d486ad510abcd064ccd58b628fc4ca1c36f690070f0b4631b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/45/c6114e7e9e0c4a525d62b262e591c21ce9fb87eb74d9fbb2e5c79ad105e3e1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4b/227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4d/b1c339a084d8f5f5035eccc7f21e27d787c00fb63f32973d2fd6689843e8e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4e/07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4e/aafdbc3dd87c65b34407f77ae962f8cd193fdf14618f479ea40fc608d79850" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4e/b9f2a78a98d2a7e3aa78b57be95df4bf441657db9a448d36f05dcba5be0748" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4e/fca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4f/b9713c4ffc94138ed7c07809bba8910d08e4ee493628e443fc83ad5134c1df" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/50/9f3e6b053746ad29443643d8775c903fcf81b362639ffe307b4d57b9370721" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/53/928fca0613d5f23bcc0947b57079dc94b21a942725681209c2b36cd77388d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/54/d45cd43c3c33d4ad044f8bcc5af5f0f089eef1204ebdc19e9fe2660c8bc905" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/56/865c133a498ec5b404807faa3f2604c08a3de380fd1d24cf921d9d13c7a992" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/59/9a74485aeef677981145ebb43049b9ba52a8d1a6841f64eaa3cd2f74acfad4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/59/9b7e2a02e6563394c9e8568774a3c41b3e46401b43866b8b988fc53976bbdd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5a/f86a98fe16ac5a884d32f7c7140e9da0fbba74614070c3839fa938e3ed8b78" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5c/f733b447f56fb54007fce33b1a6467b03ec22f90e81c3aa15db0fff8cd3387" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5d/d927c89f57ef785cd64b39d8e99d1a85432e7e168ba1f2060205171624175f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5e/703c7d66ee48a4a6bba6e3634a069e935938709bc8c7ef767d82171c754692" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5e/e2b542931ba63a4d82eacb1eaf2fe1a67b70593e69b7afd82803dcdfc4157b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/b63dd9a6374eb0c66cef6de86098812f2595ff5c4cb56da358cfe61ed5301a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6b/86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6f/d50dab96e7f8cb0f9e129e896d97ec9057dae5ff1d9481b14ac1985968afa0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/71/6a6cc94a08d00e191537524d2774f4ec9071f80433fc499776cc91006a8903" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/71/b04650114693b5fc78fd072d8d4a8f6068b60ee37fa01ef896f4ede0196ae7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/72/380f403b1d5b9b8772c4bdb8c3f53cb4ccf84d6afc883ea7badb4254268bb1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/72/8af8c01a6910765623cf596926b7bf61d6ab11e0c2e7de329ab949d9054c61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/73/0bd6181fbba4dd79cba181835b963e6ecb085542a6d81537c57c6b11873748" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/75/77f0f3121347f4643e406245e6239db1e08ea66aa43182777cce6af8e05f40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/76/b30062ae9e1bd0de528674aaf5b013bf75e7320e9ee1b50500bcaff63f4571" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/76/e678489b8d0c5e9158afff751e068001166077b2e871008c9451e3bf56481b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/79/02699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/79/0de8a192a1f545c98601b9053d96c8e7c963889a27f4f0c032014db1c1e771" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/79/b762977357fea2569cce3eb1d9f8706a681e65fa8149162c293a96c2dcf11b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7a/9167aaf45a3a55e6d6ab0fdf35f9a9b06d43d53c523f1714438c1a16e15385" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7b/45b4776fad027242a57a546de8dbb8348fb950d76df47d17a6ed15542572a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7e/ff7aa9af92f6b4898da56d179985dfe3b6df38501bba72d88183da8478e7ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/82/07af1ac47da0745c9d688747dbb03a38c9e79c0622b2f6f54b2d6fe7b90d16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/84/a5424cafd42aeb83f58e51f5cf5f891242445fe493c66cee2e90d701fa0e07" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/87/3e7b8f1b155777ef279d7d6ce0791af9de6f362d51c566163183a6c4ffc996" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/88/43d0ae2f238c49c5462dbd9ececcd3ee5ddd341514c8018909de4e8c89a1ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/96/e2475a2d79d474e9513201c25b2ac1feacd2fd0dda2719de2c16b8ced46759" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/99/d928540e759ded0a237ecf157cb6aab7cec484313df844d2fdb6fe55dc6d58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/99/de32a50741d9c1f691e0283e6dea55eaa5f0d5f9ad27f41d78504e975a30f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9b/0585803098f9de9959e8969274f89d8055c9b5d08014a43cba42e6c19734e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9c/96a952c57c5556be65dc1f21d1e152efd48929da2bf5957c06ae21673af4d3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9d/4e735242c1b53d561f7b4639676c5ecb926642bfd20ed3ef718b63047e336f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9f/fb0f6006137a0d3e5c9e1bc8a314140d6a591bd0751711836d4ff0bb93bb4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a1/712bb0736bbcb9fbec0bb473169ee9b69831090b050fec2f226a9babc20cd6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a2/c508f756fd50443052e6d4dd608e8b9617507afac5be1bba5619787d3757f2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a3/0a043314fa89294fa2c1c989a01fbb5329e5c085a5c5a8d27317656de24ae0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a6/75397356249e2fecc75d4cb1103be1028867ee8733e8a5e3d0f9a18e0e6a2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a7/2dd43453109c602875b0d87c3eeb44616fa88ee219e2eb809cb2034f304d45" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/aa/a83a7f2daf97a028d42a4b4754e2be2bd0ac9310c9e199fd17381c0ac36d90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ab/685397ed9751796252dbc51694ec073078c6835171c6cf601b62cf0d65fa32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ab/fbd10daf8965c8860b3582af942d7a7cac972b31d1c50f382b67d9b6c07365" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ac/232e74d2e9260081bd0cb70ffbce0b4e2c1fa4a3548473f53e1743f59390b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b2/1b7c75065420478cbcba6a14a69c8c2ddf3dd14cd618222408ad3c532ff681" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b3/4f17f02ecf0307437429f667421d119aaf1bf819694236efe15c538850445c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b7/5d6a09651abc5095a8371fb421e23cf04dc62c106101ce10dab32d125fa721" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b7/e4ba0c1b440d2bcb1e6df5127d099338b5a92d08b0624a14535cefedf4fead" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b8/077cc0500159bd4f78c95c8ef52e8f4627ec3ff389cbc9856b313c249f83c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b8/b1d894c683725260dcd78f8ed64f979331a1ab61fc8311e9ccfc300fd5de20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ba/4d8a40e94aeb637ab9f4bfb5b7434c523897aebd1ba8d99c4a43e39b519943" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bb/12426166d28849a2af4d09581e0bbdde4375985acecd28cfc47b3e312ea3c3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bf/44b1e3b69c9f147d988050494494d5c694d534fb510429638ae4d160759607" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c1/a92ea9fd0c7b8c018110b0dbfca4b345789ee07b5dcee0aaaaf82d1a021cc8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c4/63ff78ae68ddafee0ae0284d6111807465f8421be414808a184d39fe396d60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c6/1c9a3cebdb908e9b29b375ec29c5dba71c6748d896d39fab2fce4f9a329b55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c7/ba001a8a6b6595539de9465fce6f08ae6ea4add957bc3bb8697e7210e78d7f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ca/b8b278c7e75237af7ad8243b9c3bcb930892a05977cdc36c8f5e36f4599f7b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cd/66b946993dd505948bb9cfac68758ebcfa42a43f93ad53c38832afed6d8fba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/cf/aef50632a4d3a9544c1123f62123ffa99b97d73f6c0c2f5c8ff92e825ff4c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d0/873907060e442c18d92153cf1c73e3dcbae40d1ee2d916a3c1a56098b723f6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d2/02441495760ec7a52a5761fcabbd046a9ab9fcfa231d304fb42d962524eb09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d3/e22993bf216eae0308c2b43e18e996e2c2a3507c72b41797ccf821985f37a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/4ecf5722d05d7fcf84ceedea07be745a47299a9a5883b17b951f5cd382c74d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/fe53f814f08b2c055f5b072f3ab1c12672d200537063e48b5e3bc53d4bbcd6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d6/e425df0326f1655e1efedbdadf5b7fee278691cb4e490ac4664a9223da2b09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/da/019e999314e103e9fe132d5c50287b761086a4819ee3f12f239d5fec86d409" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/db/878b864cd7cfd257058401a6f3c2a9dfcb442a64c5b7adb177d18950f75270" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/db/aa7ece59ca3928f8217eefd772af50079900eab56c091a3fb3c8f9c96495f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/db/d3383c47e4c41ae871e9f2a4b1d56d6ff65cf7d3fc847984bb56bbf2f93553" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/dc/9d0aaba08c12d11eadb5c230e59890a7458e3d0664cd05077256e3ba02dd3a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/dd/23f34ca20a430e023bec71df063caf43aeabbbf1226cf63da695b47231f938" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/de/838855e4a6e04ea2f284b246a07a1126e7fcd151be9449e112006ad7db5c50" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/df/a4410ee2c9fb92d1c76b329c0d83d2d0f7ea1bc2c2d0eb1e0848bd8e36897d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e0/16aeb50132b499ca1c4466897908326803c17e719a80bfa66588f3064b12f7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e2/94d9ef60c66f0624521c0caa5af066c854fa49d3822da7eebcaefab02e1728" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e4/04aa80d8df4adb314c5c0e324a018068ee22660abde94e0dcc644bef866b31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e4/ef8ed0e7b6b896242510fb39791bf0968b8a83cb8072c8d70f74bb21c43dd2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e4/fc5a8340fee6f0d6f550b51651dcd96dc67f94fbe6731095f45fdc43dda674" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e7/8db828b2be625328972706d40fbf88b6679f6d5c1f2c111ef8717ae87a9773" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e7/f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ea/48f62d12b938bd7f6c688eeb7f549c5fe7c2833dc7ada9c6d1aa51d72fd22b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ea/c62328e209c037984f0541f27ea12c881c52cbee3ad7f709587dd700346336" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ee/74cb08bfaa5cccd069057fdff256f8fd5fc771e48491902dcb10c1862aabfc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ef/2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f4/7f3d71d0ef4822bca67259fd5232dce0f505e4d24e2718eccd294cda7dc26b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f5/05e2f307035981a843112f221c78f07272d9508e41518c83057b9327a5ed3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f5/b30fdaadda05473ecac332faf0bbb78e79c1d0092a9dd6f8a2abfdde68ac71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f9/782dd7999dc14b39c1329735e6e4ef72e77a3cf5fa32f2f57bf8d5493f0fc5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fc/0de0356a597c2feceb2e11a934f5d86d6e800ad05ac5f66b5b91946988ffaa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fe/61096cedc8904d0947cf36d0bd40aff3f1d6cd7f18d5f991f9d63261342af7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fe/8aaf4d2e18e9c89e39e7a26d32389056da72eef839672949c568025b367ffb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/defaults.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/translate_langs.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/code-highlight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/comments/disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/comments/gitment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/geopattern.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/google-analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/google-translate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/hashlocate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/mathjax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/theme-toggle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/extensions/trianglify.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_article_excerpt.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_article_words.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_banner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_datetimes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_reading_time.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/get_value.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/functions/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/archive-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/article-menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/category-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/common-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/google-translate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar/tag-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/banner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/paginator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/post-header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/post-item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/segments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/views/site-brand.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archives.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/articles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/framework.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-07-welcome-to-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-11-05-iframe -postMessage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-01-php-json-encode-json-decode.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-02-laravel-trying-to-get-property-headers-of-non-object.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-gradle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-12-21-undefined-index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-03-29-epreventdefault.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-04-26-php-dynamic-variable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-05-19-Out-of-Memory.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/misc/article-menu.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/misc/common-list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/misc/gitment.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/misc/google-translate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/misc/theme-toggle.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/yat.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/yat/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/yat/_dark.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/yat/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banners/home.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banners/home1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banners/home2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banners/home3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banners/space.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon_portfolio.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hidden_favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/post/chrom_out_of_memory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/post/chrom_out_of_memory2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/post/chrom_out_of_memory3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/post/gradle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/post/gradle2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/post/undefined_index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/googleb101d62f388d7951.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jekyll-theme-yat.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +136,7 @@
       <workItem from="1654131225465" duration="595000" />
       <workItem from="1654649700593" duration="6587000" />
       <workItem from="1661481661145" duration="3969000" />
-      <workItem from="1662343161385" duration="1196000" />
+      <workItem from="1662343161385" duration="2124000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -638,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662343526956</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="[uuuujin.git.io] &#10;jekyll 삭제 , react 로 project 올림">
+      <created>1662344405702</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1662344405702</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +434,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[uuuujin.git.io]&#10;favicon 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;json_encode, json_decode 임시 commit;" />
     <MESSAGE value="[uuuujin.git.io]&#10;json_encode, json_decode 재작성" />
     <MESSAGE value="[uuuujin.git.io]&#10;iframe 부분 제목 수정" />
@@ -693,6 +458,7 @@
     <MESSAGE value="[uuuujin.git.io] &#10;구글 웹마스터 관련 sitemap 추가" />
     <MESSAGE value="[uuuujin.git.io] &#10;구글 웹마스터 관련 sitemap 수정" />
     <MESSAGE value="[uuuujin.git.io] &#10;jekyll 안되는 부분 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io] &#10;jekyll 안되는 부분 수정" />
+    <MESSAGE value="[uuuujin.git.io] &#10;jekyll 삭제 , react 로 project 올림" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io] &#10;jekyll 삭제 , react 로 project 올림" />
   </component>
 </project>
