@@ -29,11 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9224d91-d85b-45f9-a627-014a5306455b" name="Default Changelist" comment="[uuuujin.git.io] &#10;README , APP.js 수정">
+      <change afterPath="$PROJECT_DIR$/blog/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/blog/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,7 @@
       <workItem from="1654649700593" duration="6587000" />
       <workItem from="1661481661145" duration="3969000" />
       <workItem from="1662343161385" duration="2124000" />
-      <workItem from="1662345872929" duration="2323000" />
+      <workItem from="1662345872929" duration="10583000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1634709806743</created>
@@ -430,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662347456965</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="[uuuujin.git.io] &#10;README , APP.js 수정">
+      <created>1662348229885</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1662348229885</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[uuuujin.git.io]&#10;post들 제목 수정" />
     <MESSAGE value="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가" />
     <MESSAGE value="[uuuujin.git.io]&#10;'headers' of non-object 에러 추가 ver.2" />
     <MESSAGE value="[uuuujin.git.io]&#10;font 및 banner img 수정" />
@@ -485,6 +491,7 @@
     <MESSAGE value="[uuuujin.git.io] &#10;react 로 project 다시 올림" />
     <MESSAGE value="[uuuujin.git.io] &#10;react 로 project 다시 올림 2" />
     <MESSAGE value="[uuuujin.git.io] &#10;react 로 project blog로 다시 올림" />
-    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io] &#10;react 로 project blog로 다시 올림" />
+    <MESSAGE value="[uuuujin.git.io] &#10;README , APP.js 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[uuuujin.git.io] &#10;README , APP.js 수정" />
   </component>
 </project>
