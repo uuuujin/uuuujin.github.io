@@ -14,6 +14,7 @@ function main() {
     });
     window.addEventListener('wheel', (e) => {
         const xValue = document.getElementsByClassName('pg-page')[0].clientWidth;
+        console.log(xValue)
         if (e.deltaY > 0) { // 정방향
             document.documentElement.scrollLeft = window.scrollX + xValue;
         } else { //역방향
