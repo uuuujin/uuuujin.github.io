@@ -13,6 +13,8 @@ import AttendanceBook from "./AttendanceBook/AttendanceBook";
 import SignUp from "./SignUp/SignUp";
 import Calculator from "./Temperature/Calculator";
 import ProfileCard from "./Card/ProfileCard";
+import DarkOrLight from "./Theme/DarkOrLight";
+import Blocks from "./Blocks/Blocks";
 
 // function App() {
 //
@@ -61,6 +63,8 @@ function App() {
           <Route path="/signup" element={<SignUp/>} />
           <Route path="/calculator" element={<Calculator/>}/>
           <Route path="/card" element={<ProfileCard/>} />
+          <Route path="/Theme" element={<DarkOrLight/>} />
+          <Route path="/Blocks" element={<Blocks/>} />
         </Routes>
       </Router>
     </div>
