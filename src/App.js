@@ -6,7 +6,13 @@ import Home from "./component/Home";
 import Scroll from "./scroll";
 import Comment from "./comment/contents/CommentList";
 import Notification from "./comment/contents/NotificationList";
-
+import Accommodate from "./useCounter/Accommodate";
+import ConfirmButton from "./ConfirmButton/ConfirmButton";
+import LandingPage from "./Toolbar/LandingPage";
+import AttendanceBook from "./AttendanceBook/AttendanceBook";
+import SignUp from "./SignUp/SignUp";
+import Calculator from "./Temperature/Calculator";
+import ProfileCard from "./Card/ProfileCard";
 
 // function App() {
 //
@@ -48,6 +54,13 @@ function App() {
           <Route path="/scroll" element={<Scroll />} />
           <Route path="/comment" element={<Comment />} />
           <Route path="/notification" element={<Notification />} />
+          <Route path="/accomodate" element={<Accommodate />} />
+          <Route path="/confirmButton" element={<ConfirmButton />} />
+          <Route path="/landingPage" element={<LandingPage />} />
+          <Route path="/attendanceBook" element={<AttendanceBook/>} />
+          <Route path="/signup" element={<SignUp/>} />
+          <Route path="/calculator" element={<Calculator/>}/>
+          <Route path="/card" element={<ProfileCard/>} />
         </Routes>
       </Router>
     </div>
