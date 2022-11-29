@@ -13,6 +13,7 @@ const Block = styled.div`
       padding: ${(props) => props.padding};
       border: 1px solid black;
       border-radius: 1rem;
+      background-color: ${(props) => props.backgroundColor};
       color: white;
       font-size: 2rem;
       font-weight: bold;
@@ -43,8 +44,8 @@ function Blocks(props) {
             {blockItems.map((blockItems) => {
                 return (
                     <Block
-                    padding={blockItems.padding}
-                    backgroundColor={blockItems.backgroundColor}
+                        padding={blockItems.padding}
+                        backgroundColor={blockItems.backgroundColor}
                     >
                         {blockItems.label}
                     </Block>
