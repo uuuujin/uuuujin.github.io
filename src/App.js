@@ -15,6 +15,7 @@ import Calculator from "./Temperature/Calculator";
 import ProfileCard from "./Card/ProfileCard";
 import DarkOrLight from "./Theme/DarkOrLight";
 import Blocks from "./Blocks/Blocks";
+import Blog from "./miniBlog";
 
 // function App() {
 //
@@ -45,8 +46,6 @@ import Blocks from "./Blocks/Blocks";
 //   );
 // }
 //
-
-
 function App() {
   return (
     <div >
@@ -56,7 +55,7 @@ function App() {
           <Route path="/scroll" element={<Scroll />} />
           <Route path="/comment" element={<Comment />} />
           <Route path="/notification" element={<Notification />} />
-          <Route path="/accomodate" element={<Accommodate />} />
+          <Route path="/accommodate" element={<Accommodate />} />
           <Route path="/confirmButton" element={<ConfirmButton />} />
           <Route path="/landingPage" element={<LandingPage />} />
           <Route path="/attendanceBook" element={<AttendanceBook/>} />
@@ -65,6 +64,7 @@ function App() {
           <Route path="/card" element={<ProfileCard/>} />
           <Route path="/Theme" element={<DarkOrLight/>} />
           <Route path="/Blocks" element={<Blocks/>} />
+          <Route path="/blog/*" element={<Blog/>} />
         </Routes>
       </Router>
     </div>
