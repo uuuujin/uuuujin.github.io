@@ -16,36 +16,8 @@ import ProfileCard from "./Card/ProfileCard";
 import DarkOrLight from "./Theme/DarkOrLight";
 import Blocks from "./Blocks/Blocks";
 import Blog from "./miniBlog";
+import Axios from "./axios";
 
-// function App() {
-//
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <h1>
-//           this is uuuujin github
-//         </h1>
-//           <p>my react 연습장</p>
-//         <a
-//           className="App-link"
-//           href="https://syz.netlify.app/"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           time is
-//         </a>
-//       </header>
-//       <div>
-//         {Scroll}
-//       </div>
-//
-//       {/*<Route path="/scroll" component={Scroll}/>*/}
-//     </div>
-//
-//   );
-// }
-//
 function App() {
   return (
     <div >
@@ -65,6 +37,7 @@ function App() {
           <Route path="/Theme" element={<DarkOrLight/>} />
           <Route path="/Blocks" element={<Blocks/>} />
           <Route path="/blog/*" element={<Blog/>} />
+          <Route path="/axios" element={<Axios/>}/>
         </Routes>
       </Router>
     </div>
