@@ -17,6 +17,7 @@ import DarkOrLight from "./Theme/DarkOrLight";
 import Blocks from "./Blocks/Blocks";
 import Blog from "./miniBlog";
 import Axios from "./axios";
+import ContextTest from "./context/contextTest";
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
           <Route path="/Blocks" element={<Blocks/>} />
           <Route path="/blog/*" element={<Blog/>} />
           <Route path="/axios" element={<Axios/>}/>
+          <Route path="/ContextTest" element={<ContextTest/>}/>
         </Routes>
       </Router>
     </div>

@@ -10,12 +10,20 @@ function MainContent(props) {
                 width : "100vw",
                 height : "100vh",
                 padding : "1.5rem",
-                backgroundColor: theme === "light" ? "white" : "black",
-                color: theme === "light" ? "black" : "white"
+                backgroundColor: theme === "light" ? "white" : "#010080",
+                color: theme === "light" ? "#010080" : "white"
             }}
         >
-            <p> 안녕하세요, 테마 변경이 가능한 웹사이트 입니다.</p>
-            <button onClick={toggleTheme}>테마변경</button>
+            <p> Hello this is uuuujin github nice to meet you</p>
+            <button
+                style={{
+                    width : "200px",
+                    height : "200px",
+                    backgroundColor: "#D4D0C7",
+                    fontSize:"50px",
+                    color: theme === "light" ? "#010080" : "white"
+                }}
+                onClick={toggleTheme}>change</button>
         </div>
     );
 }
