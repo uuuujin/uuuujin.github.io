@@ -18,6 +18,9 @@ import Blocks from "./Blocks/Blocks";
 import Blog from "./miniBlog";
 import Axios from "./axios";
 import ContextTest from "./context/contextTest";
+import Ref from "./Ref/UseRef";
+import ShowTextTest from "./Ref/ShowTextTest";
+import BoxRefTest from "./Ref/ManyDomRefTest"
 
 function App() {
   return (
@@ -40,6 +43,10 @@ function App() {
           <Route path="/blog/*" element={<Blog/>} />
           <Route path="/axios" element={<Axios/>}/>
           <Route path="/ContextTest" element={<ContextTest/>}/>
+          <Route path="/Ref" element={<Ref/>}/>
+          <Route path="/ShowTextTest" element={<ShowTextTest/>}/>
+          <Route path="/BoxRefTest" element={<BoxRefTest/>}/>
+
         </Routes>
       </Router>
     </div>
