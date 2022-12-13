@@ -1,0 +1,61 @@
+.moveButtonDiv {     position: absolute;}
+
+@keyframes circle {
+  0% {
+    top:0px;
+  }
+  95% {
+    //width: 100px;
+  }
+  to {
+    top:200px;
+    width:115px;
+    height:90px
+  }
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  position:absolute;
+  border-radius:50%;
+  border: 10px solid #61dafb;
+  background:#282c34;
+  width:100px;
+  height:100px;
+  font-size: large;
+  font-weight: bold;
+  color: azure;
+}
+
+.photo {
+  //left: -30%;
+  left: -500px;
+  top: 100px;
+  animation:circle 1s ease-in Infinite Alternate;
+}
+
+@-webkit-keyframes goAndBack {
+  0% {
+    left:100px;
+  }
+  100% {
+
+  }
+   to {
+    left:300px;
+  }
+}
+
+.goAndBack {
+  left: -200px;
+  top: -400px;
+   /* 애니메이션 이름 */
+  animation-name: circle;
+  animation-duration:2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  //animation-direction:alternate;
+  //animation-fill-mode: forwards;
+  //animation:goAndBack 1s Infinite Alternate;
+}
