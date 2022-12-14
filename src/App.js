@@ -29,6 +29,7 @@ import ReducerTest from "./HookTest/ReducerTest";
 import ImperativeHandleApp from "./HookTest/ImperativeHandleApp";
 import LayoutEffectTest from "./HookTest/LayoutEffectTest";
 import DebugValueTestApp from "./HookTest/DebugValueTestApp";
+import PropTypesTest from "./recommandedComponentWrite/PropTypesTestApp";
 
 function App() {
   return (
@@ -61,7 +62,7 @@ function App() {
           <Route path="/ImperativeHandleApp" element={<ImperativeHandleApp/>} />
           <Route path="/LayoutEffectTest" element={<LayoutEffectTest/>} />
           <Route path="/DebugValueTestApp" element={<DebugValueTestApp/>} />
-
+          <Route path="/PropTypesTest" element={<PropTypesTest/>} />
         </Routes>
       </Router>
     </div>
