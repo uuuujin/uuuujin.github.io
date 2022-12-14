@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, useState} from "react";
+import React, {useEffect, useState} from "react";
 
 function Clock(props) {
     let [time, setTimer] = useState(new Date().toLocaleTimeString());
@@ -22,7 +22,7 @@ function Clock(props) {
 
     return (
         <div style={innerColckStyle}>
-            <h1>{time}</h1>
+            <h1>{new Date().toLocaleDateString()}{time}</h1>
         </div>
     );
 

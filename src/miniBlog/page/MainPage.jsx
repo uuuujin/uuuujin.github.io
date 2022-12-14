@@ -33,7 +33,7 @@ const MainTitleText = styled.p`
 `;
 
 function MainPage(props) {
-    const { } = props;
+    const {} = props;
 
     const navigate = useNavigate();
 

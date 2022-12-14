@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import './App.css';
+
 import Home from "./component/Home";
 import Scroll from "./scroll";
 import Comment from "./comment/contents/CommentList";
@@ -20,7 +21,11 @@ import Axios from "./axios";
 import ContextTest from "./context/contextTest";
 import Ref from "./Ref/UseRef";
 import ShowTextTest from "./Ref/ShowTextTest";
-import BoxRefTest from "./Ref/ManyDomRefTest"
+import BoxRefTest from "./Ref/ManyDomRefTest";
+import AgeTest from "./Ref/AgeTest";
+import MemoTest from "./HookTest/MemoTest";
+import CallBackTest from "./HookTest/CallBackTest";
+import ReducerTest from "./HookTest/ReducerTest";
 
 function App() {
   return (
@@ -46,6 +51,10 @@ function App() {
           <Route path="/Ref" element={<Ref/>}/>
           <Route path="/ShowTextTest" element={<ShowTextTest/>}/>
           <Route path="/BoxRefTest" element={<BoxRefTest/>}/>
+          <Route path="/AgeTest" element={<AgeTest/>}/>
+          <Route path="/MemoTest" element={<MemoTest/>} />
+          <Route path="/CallBackTest" element={<CallBackTest/>} />
+          <Route path="/ReducerTest" element={<ReducerTest/>} />
 
         </Routes>
       </Router>

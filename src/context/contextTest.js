@@ -6,7 +6,7 @@ const ThemeContext = createContext('dark');
 
 export default function ContextTest() {
     const [name, setName] = useState('context test 초기값');
-    const [age, setAge] = useState(0);
+    //const [age, setAge] = useState(0);
     const [count, setCount] = useState(0);
     console.log("constext test rendeer");
 
