@@ -26,6 +26,9 @@ import AgeTest from "./Ref/AgeTest";
 import MemoTest from "./HookTest/MemoTest";
 import CallBackTest from "./HookTest/CallBackTest";
 import ReducerTest from "./HookTest/ReducerTest";
+import ImperativeHandleApp from "./HookTest/ImperativeHandleApp";
+import LayoutEffectTest from "./HookTest/LayoutEffectTest";
+import DebugValueTestApp from "./HookTest/DebugValueTestApp";
 
 function App() {
   return (
@@ -55,6 +58,9 @@ function App() {
           <Route path="/MemoTest" element={<MemoTest/>} />
           <Route path="/CallBackTest" element={<CallBackTest/>} />
           <Route path="/ReducerTest" element={<ReducerTest/>} />
+          <Route path="/ImperativeHandleApp" element={<ImperativeHandleApp/>} />
+          <Route path="/LayoutEffectTest" element={<LayoutEffectTest/>} />
+          <Route path="/DebugValueTestApp" element={<DebugValueTestApp/>} />
 
         </Routes>
       </Router>

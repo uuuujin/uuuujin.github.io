@@ -10,9 +10,8 @@ export default function ReducerTestBetter () {
             <p>{`name is ${state.name}`}</p>
             <p>{`age is ${state.age}`}</p>
 
-            <ProfileDispatch.Provider value={dispatch}>
-                <SomeComponent/>
-            </ProfileDispatch.Provider>
+            {/*<ProfileDispatch.Provider value={dispatch}>*/}
+            {/*</ProfileDispatch.Provider>*/}
 
             <input
                 type="text"
@@ -74,4 +73,10 @@ function reducer (state, action) {
 *
 * 그래서 useReducer Hook과 Context api 를 같이 이용하면
 * 상위 컴포넌트에서 트리의 깊은 곳으로 이벤트 처리 함수를 쉽게 전달 할 수 있음.
+*
+* contextApi 를 이용해서  ProfileDispatch 라는 Context를 만듦.
+* 상위 컴포넌트에서 Provider 컴포넌트를 이용해서 useReducer에 dispatch 함수를 내려줌.
+* 그러면 필요한 곳에서는 dispatch 함수를 이용해서 상태값을 변경 할 수 있음.
+*
+*
 * */
