@@ -60,6 +60,10 @@ function Greeting2( {isEvent, isLogin, name, cash}) {
     )
 }
 
+function onClickEvent() {
+    console.log('log')
+}
+
 /*위에 Greeting2를 and 절로 표현하면 조건이 한눈에 들어옴.
 * */
 function Greeting2Better( {isEvent, isLogin, name, cash}) {
