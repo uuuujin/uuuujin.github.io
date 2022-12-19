@@ -1,0 +1,29 @@
+.photoArea {
+    width: initial;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center;*/
+    align-items: center;
+}
+
+.photoArea > div {
+    width: 90%;
+}
+
+.photoArea > .topArea {
+    flex-direction: column;
+    /*justify-content: flex-start;*/
+    height: 180px;
+    border-bottom: 1px solid crimson;
+}
+
+.photoArea > .topArea > div {
+    width: 50%;
+}
+.photoArea > .topArea > .left {
+
+}
+.photoArea > .topArea > .right {
+
+}
