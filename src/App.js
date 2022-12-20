@@ -30,6 +30,9 @@ import ImperativeHandleApp from "./HookTest/ImperativeHandleApp";
 import LayoutEffectTest from "./HookTest/LayoutEffectTest";
 import DebugValueTestApp from "./HookTest/DebugValueTestApp";
 import PropTypesTest from "./recommandedComponentWrite/PropTypesTestApp";
+import RenderingSpeedSample from "./RenderingSpeed/Sample";
+import RenderingSpeedFruitSample from "./RenderingSpeed/SelectFruitsSampleCode";
+import BetweenRealDomVirtualDom from "./RenderingSpeed/BetweenRealDomVirtualDom";
 
 function App() {
   return (
@@ -63,6 +66,9 @@ function App() {
           <Route path="/LayoutEffectTest" element={<LayoutEffectTest/>} />
           <Route path="/DebugValueTestApp" element={<DebugValueTestApp/>} />
           <Route path="/PropTypesTest" element={<PropTypesTest/>} />
+          <Route path="/RenderingSpeedSample" element={<RenderingSpeedSample/>} />
+          <Route path="/RenderingSpeedFruitSample" element={<RenderingSpeedFruitSample/>} />
+          <Route path="/BetweenRealDomVirtualDom" element={<BetweenRealDomVirtualDom/>} />
         </Routes>
       </Router>
     </div>
