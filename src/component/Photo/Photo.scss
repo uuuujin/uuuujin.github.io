@@ -1,29 +1,43 @@
+img {
+    cursor: pointer;
+}
+
 .photoArea {
     width: initial;
     height: 100vh;
     display: flex;
     flex-direction: column;
-    /*justify-content: center;*/
+    justify-content: space-between;
     align-items: center;
 }
 
-.photoArea > div {
-    width: 90%;
+.photoArea > div {  /*topArea, MiddleAra, BottomArea*/
+    width: 70%;
+    flex-direction: column;
 }
 
 .photoArea > .topArea {
-    flex-direction: column;
-    /*justify-content: flex-start;*/
+    display: flex;
     height: 180px;
+    flex-direction: row;
     border-bottom: 1px solid crimson;
 }
 
 .photoArea > .topArea > div {
     width: 50%;
+    margin: 0;
+    /*justify-content: flex-start;*/
+    /*flex-direction: column;*/
 }
-.photoArea > .topArea > .left {
 
+.photoArea > .topArea > .left {
+    padding: 30px 30px 30px 30px;
 }
+
 .photoArea > .topArea > .right {
 
 }
+.photoArea > .topArea > .right > img {
+
+}
+

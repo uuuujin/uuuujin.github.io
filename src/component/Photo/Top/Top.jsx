@@ -10,8 +10,13 @@ export default function Top() {
             <div className="right">
                 <img
                     src="https://avatars.githubusercontent.com/u/92841646?v=4"
-                    alt="profile"/>
+                    alt="profile"
+                    onClick={imgClickEvent}/>
             </div>
         </div>
     )
+}
+
+function imgClickEvent() {
+    alert("img click")
 }
