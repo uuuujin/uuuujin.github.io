@@ -33,6 +33,12 @@ import PropTypesTest from "./recommandedComponentWrite/PropTypesTestApp";
 import RenderingSpeedSample from "./RenderingSpeed/Sample";
 import RenderingSpeedFruitSample from "./RenderingSpeed/SelectFruitsSampleCode";
 import BetweenRealDomVirtualDom from "./RenderingSpeed/BetweenRealDomVirtualDom";
+import ReduxPractice from "./Redux/ReduxPractice";
+import ReduxPracticeUseRedux from "./Redux/ReduxPracticeUseRedux";
+//import MiddlewareTest from "./Redux/middlewareTEST2";
+//import MiddlewareExample from "./Redux/middlewareExmaple";
+//import MiddlewareDelayExample from "./Redux/middlewareDelayExample";
+import MiddlewareStorage from "./Redux/middlewareStorage";
 
 function App() {
   return (
@@ -69,6 +75,12 @@ function App() {
           <Route path="/RenderingSpeedSample" element={<RenderingSpeedSample/>} />
           <Route path="/RenderingSpeedFruitSample" element={<RenderingSpeedFruitSample/>} />
           <Route path="/BetweenRealDomVirtualDom" element={<BetweenRealDomVirtualDom/>} />
+          <Route path="/ReduxPractice" element={<ReduxPractice/>}/>
+          <Route path="/ReduxPracticeUseRedux" element={<ReduxPracticeUseRedux/>}/>
+          <Route path="/MiddlewareStorage" element={<MiddlewareStorage/>}/>
+          {/*<Route path="/MiddlewareTest" element={<MiddlewareTest/>}/>*/}
+          {/*<Route path="/MiddlewareExample" element={<MiddlewareExample/>}/>*/}
+          {/*<Route path="/MiddlewareDelayExample" element={<MiddlewareDelayExample/>}/>*/}
         </Routes>
       </Router>
     </div>
