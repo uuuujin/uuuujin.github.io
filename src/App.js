@@ -39,6 +39,7 @@ import ReduxPracticeUseRedux from "./Redux/ReduxPracticeUseRedux";
 //import MiddlewareExample from "./Redux/middlewareExmaple";
 //import MiddlewareDelayExample from "./Redux/middlewareDelayExample";
 import MiddlewareStorage from "./Redux/middlewareStorage";
+import ReducerProduct from './Redux/ReducerProduce';
 
 function App() {
   return (
@@ -77,10 +78,11 @@ function App() {
           <Route path="/BetweenRealDomVirtualDom" element={<BetweenRealDomVirtualDom/>} />
           <Route path="/ReduxPractice" element={<ReduxPractice/>}/>
           <Route path="/ReduxPracticeUseRedux" element={<ReduxPracticeUseRedux/>}/>
-          <Route path="/MiddlewareStorage" element={<MiddlewareStorage/>}/>
           {/*<Route path="/MiddlewareTest" element={<MiddlewareTest/>}/>*/}
           {/*<Route path="/MiddlewareExample" element={<MiddlewareExample/>}/>*/}
           {/*<Route path="/MiddlewareDelayExample" element={<MiddlewareDelayExample/>}/>*/}
+          <Route path="/MiddlewareStorage" element={<MiddlewareStorage/>}/>
+          <Route path="/ReducerProduct" element={<ReducerProduct/>}/>
         </Routes>
       </Router>
     </div>
