@@ -38,9 +38,11 @@ import ReduxPracticeUseRedux from "./Redux/ReduxPracticeUseRedux";
 //import MiddlewareTest from "./Redux/middlewareTEST2";
 //import MiddlewareExample from "./Redux/middlewareExmaple";
 //import MiddlewareDelayExample from "./Redux/middlewareDelayExample";
-import MiddlewareStorage from "./Redux/middlewareStorage";
-import ReducerProduce from './Redux/ReducerProduce';
-import StoreTest from "./Redux/StoreTest";
+// import MiddlewareStorage from "./Redux/middlewareStorage";
+// import ReducerProduce from './Redux/ReducerProduce';
+// import StoreTest from "./Redux/StoreTest";
+//import ReduxSampleApplication from "./Sample_Redux_Application";
+import ReduxSampleApp from "./SampleReduxApplication";
 
 function App() {
   return (
@@ -79,12 +81,14 @@ function App() {
           <Route path="/BetweenRealDomVirtualDom" element={<BetweenRealDomVirtualDom/>} />
           <Route path="/ReduxPractice" element={<ReduxPractice/>}/>
           <Route path="/ReduxPracticeUseRedux" element={<ReduxPracticeUseRedux/>}/>
-          {/*<Route path="/MiddlewareTest" element={<MiddlewareTest/>}/>*/}
-          {/*<Route path="/MiddlewareExample" element={<MiddlewareExample/>}/>*/}
-          {/*<Route path="/MiddlewareDelayExample" element={<MiddlewareDelayExample/>}/>*/}
+          {/*<Route path="/MiddlewareTest" element={<MiddlewareTest/>}/>
+          <Route path="/MiddlewareExample" element={<MiddlewareExample/>}/>
+          <Route path="/MiddlewareDelayExample" element={<MiddlewareDelayExample/>}/>
           <Route path="/MiddlewareStorage" element={<MiddlewareStorage/>}/>
           <Route path="/ReducerProduce" element={<ReducerProduce/>}/>
           <Route path="/StoreTest" element={<StoreTest/>}/>
+          <Route path="/ReduxSampleApplication" element={<ReduxSampleApplication/>}/>*/}
+          <Route path="/ReduxSampleApp" element={<ReduxSampleApp/>}/>
         </Routes>
       </Router>
     </div>
