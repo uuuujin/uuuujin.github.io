@@ -70,7 +70,7 @@ function createReducer(initialState, handlerMap) {
             if (handler) {
                 handler(draft, action);
             }
-        })
+        });
     }
 }
 /*

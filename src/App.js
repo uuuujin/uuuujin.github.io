@@ -39,7 +39,8 @@ import ReduxPracticeUseRedux from "./Redux/ReduxPracticeUseRedux";
 //import MiddlewareExample from "./Redux/middlewareExmaple";
 //import MiddlewareDelayExample from "./Redux/middlewareDelayExample";
 import MiddlewareStorage from "./Redux/middlewareStorage";
-import ReducerProduct from './Redux/ReducerProduce';
+import ReducerProduce from './Redux/ReducerProduce';
+import StoreTest from "./Redux/StoreTest";
 
 function App() {
   return (
@@ -82,7 +83,8 @@ function App() {
           {/*<Route path="/MiddlewareExample" element={<MiddlewareExample/>}/>*/}
           {/*<Route path="/MiddlewareDelayExample" element={<MiddlewareDelayExample/>}/>*/}
           <Route path="/MiddlewareStorage" element={<MiddlewareStorage/>}/>
-          <Route path="/ReducerProduct" element={<ReducerProduct/>}/>
+          <Route path="/ReducerProduce" element={<ReducerProduce/>}/>
+          <Route path="/StoreTest" element={<StoreTest/>}/>
         </Routes>
       </Router>
     </div>
