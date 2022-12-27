@@ -43,6 +43,7 @@ import ReduxPracticeUseRedux from "./Redux/ReduxPracticeUseRedux";
 // import StoreTest from "./Redux/StoreTest";
 //import ReduxSampleApplication from "./Sample_Redux_Application";
 import ReduxSampleApp from "./SampleReduxApplication";
+import ReduxSampleAppBetter from "./SampleReduxApplicationBetter";
 
 function App() {
   return (
@@ -89,6 +90,7 @@ function App() {
           <Route path="/StoreTest" element={<StoreTest/>}/>
           <Route path="/ReduxSampleApplication" element={<ReduxSampleApplication/>}/>*/}
           <Route path="/ReduxSampleApp" element={<ReduxSampleApp/>}/>
+          <Route path="/ReduxSampleAppBetter" element={<ReduxSampleAppBetter/>}/>
         </Routes>
       </Router>
     </div>
