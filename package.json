@@ -9,8 +9,13 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "gh-pages": "^4.0.0",
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.7.0",
+    "sneat-bootstrap-html-admin-template-free": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
