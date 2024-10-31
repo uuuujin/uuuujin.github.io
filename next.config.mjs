@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    basePath: '/(repository 이름)',
+    basePath: '/uuuujin.github.io',
 }
 
 export default nextConfig;
